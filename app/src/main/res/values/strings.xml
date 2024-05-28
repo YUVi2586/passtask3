@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">passtask3</string>
+    <string name="lastclicked">Lastclicked</string>
 </resources>
